@@ -120,6 +120,7 @@
                        @"Do you have a favorite memory? Write about it and how this memory speaks to you. Create a visual representation of that in your Art Journal", //98
                        @"When you hear the word: Water, what do you think of? Write about it and create a visual representation of it in your Art Journal", //99
                        @"Create scribble art, just start scribbling a shape of something in front of you. Write about how it makes you feel and what you take from it." //100
+                       //100
     ];
     
     int randomGeneration = arc4random() % facts.count;
